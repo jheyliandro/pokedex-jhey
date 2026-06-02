@@ -1,0 +1,27 @@
+{
+  "name": "pokedex-jhey",
+  "version": "1.0.0",
+  "description": "aplicação que coleta da API e armazena dados de pokemons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jheyliandro/pokedex-jhey.git"
+  },
+  "keywords": [
+    "pokedex",
+    "jhey"
+  ],
+  "author": "jheyliandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jheyliandro/pokedex-jhey/issues"
+  },
+  "homepage": "https://github.com/jheyliandro/pokedex-jhey#readme",
+  "devDependencies": {
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  }
+}
