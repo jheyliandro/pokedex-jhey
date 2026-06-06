@@ -19,7 +19,7 @@
     "typescript",
     "node",
     "pokeapi",
-     "sctec"
+    "sctec"
   ],
   "author": "jheyliandro",
   "license": "ISC",
@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/jheyliandro/pokedex-jhey#readme",
   "devDependencies": {
+    "@types/node": "^25.9.2",
     "tsx": "^4.22.4",
     "typescript": "^6.0.3"
   }
