@@ -4,7 +4,10 @@
   "description": "aplicação que coleta da API e armazena dados de pokemons",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx src/main.ts",
+    "start": "tsx src/main.ts",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -12,7 +15,11 @@
   },
   "keywords": [
     "pokedex",
-    "jhey"
+    "jhey",
+    "typescript",
+    "node",
+    "pokeapi",
+     "sctec"
   ],
   "author": "jheyliandro",
   "license": "ISC",
